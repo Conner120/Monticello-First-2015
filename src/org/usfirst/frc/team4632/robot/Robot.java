@@ -10,6 +10,9 @@ import edu.wpi.first.wpilibj.Timer;
 /**
  *I LIEK ROBITS BRUHHHH!
  */
+/*Me Like Robits as wall!!
+*They yum yum!!
+Me Likey!*/
 public class Robot extends SampleRobot {
 	RobotDrive myRobot;
 	Joystick stick;
